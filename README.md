@@ -1,58 +1,88 @@
-<!-- 𝐑𝐄𝐀𝐃𝐌𝐄 𝐅𝐎𝐑 𝐋𝐀𝐇𝐌𝐏𝐀𝐋𝐌𝐒 -->
+<!-- 🌟 GITHUB README FOR LAHMPALMS -->
 
-<h1 align="center">Hey there, I'm Lahmpalms 👋</h1>
-<p align="center"><em>Full‑Stack Craftsman • Cloud Wrangler • Meme Curator</em><br/>
-<strong>“Code, coffee, repeat — until it ships.” ☕️🚀</strong></p>
+<h1 align="center">Hi there, I'm <code>Lahmpalms</code> 👋</h1>
+<p align="center"><em>Full-Stack Craftsman • Cloud Wrangler • Meme Curator</em></p>
+<p align="center"><strong>“Code, coffee, repeat — until it ships.” ☕🚀</strong></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lahmpalms&label=Profile%20views" alt="Profile views"/>&nbsp;
   <img src="https://img.shields.io/badge/Motto-Stay%20Strong,%20Weekend%20is%20Coming-blueviolet"/>
+  <img src="https://img.shields.io/badge/Mood-debugging-red" />
 </p>
 
-## 🧑‍💻 About Me
+---
 
-* 🔭 Building cash‑free festival magic at **[CASHEERS](https://casheers.com/)**.
-* 🌱 Currently knee‑deep in **serverless & distributed tracing**.
-* 💬 Ask me about **Node.js, React, and turning ☕️ into JSON**.
-* 📫 Reach me -> **[tanapat.nammoonnoi@gmail.com](mailto:tanapat.nammoonnoi@gmail.com)**
-* ⚡ Fun fact: My bugs are 100 % organic and gluten‑free.
+## 🧑‍💻 About Me
 
-## 🛠️ Tech I Enjoy
+- 🔭 Currently building cash-free festival magic @ [CASHEERS](https://casheers.com)
+- 🧠 Learning: Serverless • Distributed Tracing • Chaos Engineering
+- 💬 Ask me about: `Node.js`, `React`, `MongoDB`, and turning ☕ into JSON
+- 📫 Hit me up: [tanapat.nammoonnoi@gmail.com](mailto:tanapat.nammoonnoi@gmail.com)
+- ⚡ Fun Fact: My bugs are 100% organic, locally sourced, and gluten-free.
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=nodedotjs\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat\&logo=nextdotjs\&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat\&logo=nestjs\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat\&logo=typescript\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat\&logo=amazon-aws\&logoColor=orange)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat\&logo=kubernetes\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat\&logo=tailwindcss\&logoColor=white)
+---
 
-## 📈 GitHub Stats
+## 🛠️ Tech Toolbox
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lahmpalms&show_icons=true&theme=radical" alt="Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lahmpalms&theme=radical" alt="Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahmpalms&layout=compact&theme=radical" alt="Top Langs"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,nestjs,ts,js,python,mongodb,aws,docker,kubernetes,tailwind" />
 </p>
 
-## 🏆 Trophies
+---
+
+## 📈 Stats That Definitely Matter™
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lahmpalms&theme=onedark&margin-w=10" alt="Trophies"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lahmpalms&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lahmpalms&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahmpalms&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
-## 🤝 Connect
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tanapatna-blue?logo=linkedin\&logoColor=white)](https://linkedin.com/in/tanapatna)
-[![Twitter](https://img.shields.io/badge/Twitter-@lahmpalms-1DA1F2?logo=twitter\&logoColor=white)](https://twitter.com/lahmpalms)
+## 🏆 Trophies (Because Why Not)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lahmpalms&theme=onedark&column=7&margin-w=10" />
+</p>
+
+---
+
+## 🤝 Let’s Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/tanapatna"><img src="https://img.shields.io/badge/LinkedIn-Tanapat%20Nammoonnoi-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:tanapat.nammoonnoi@gmail.com"><img src="https://img.shields.io/badge/Gmail-Send%20Me%20Mail-red?style=for-the-badge&logo=gmail"></a>
+</p>
 
 ---
 
 <details>
-<summary>🎬 When I'm not coding…</summary>
-I’m probably binge‑watching sci‑fi, brewing pour‑over coffee, or chasing my cat away from the keyboard 🐈‍⬛.
+<summary>🎬 When I'm not coding…</summary>
+<ul>
+  <li>☕ Brewing fancy pour-over coffee like a hipster barista</li>
+  <li>📺 Binge-watching sci-fi and pretending it's "research"</li>
+  <li>🐈 Fighting for keyboard control with my cat (she’s winning)</li>
+</ul>
 </details>
+
+---
+
+<details>
+<summary>💡 A Few Dev Memes I Live By</summary>
+
+> “It works on my machine.” — every developer ever  
+> “One does not simply push to `main` without tests.”  
+> “I’m not lazy, I’m on energy-saving mode.”  
+
+</details>
+
+---
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes card" />
+</p>
+
+---
+
+_✨ Thanks for scrolling — now go ship something awesome!_

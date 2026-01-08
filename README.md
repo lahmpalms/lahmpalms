@@ -48,40 +48,6 @@ I enjoy working across the stack—from clean UI to resilient backend systems an
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lahmpalms&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lahmpalms&theme=tokyonight" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahmpalms&layout=compact&theme=tokyonight" height="150" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lahmpalms&theme=onedark&column=6&margin-w=10" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/tanapatna">
-    <img src="https://img.shields.io/badge/LinkedIn-Tanapat%20Nammoonnoi-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:tanapat.nammoonnoi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
-
----
-
 <details>
 <summary>🧩 Beyond Code</summary>
 
